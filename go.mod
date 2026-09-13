@@ -1,4 +1,4 @@
-module github.com/ondewo/ondewo-t2s-client-go
+module github.com/ondewo/ondewo-t2s-client-go/v6
 
 go 1.25.0
 

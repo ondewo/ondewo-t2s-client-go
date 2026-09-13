@@ -27,7 +27,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/structpb"
 
-	t2s "github.com/ondewo/ondewo-t2s-client-go/api/ondewo/t2s"
+	t2s "github.com/ondewo/ondewo-t2s-client-go/v6/api/ondewo/t2s"
 )
 
 // protoFileCount is the number of .proto files below ondewo-t2s-api/ondewo that the compiler
