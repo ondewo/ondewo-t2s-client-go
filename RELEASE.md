@@ -39,3 +39,5 @@
   (`6.6.0`) that the rest of the fleet uses, and with the `v`-prefixed spelling (`v6.6.0`) that is
   the only tag shape the Go module resolver accepts. `make publish_go_module` then warms
   `proxy.golang.org` so the new version is immediately installable with `go get`.
+
+*****************
