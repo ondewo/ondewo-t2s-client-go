@@ -45,7 +45,7 @@ export
 
 # MUST BE THE SAME AS API in Major and Minor Version Number
 # example: API 2.9.0 --> Client 2.9.X
-ONDEWO_T2S_VERSION=6.6.0
+ONDEWO_T2S_VERSION=6.6.1
 
 # Submodule pins - `make checkout_defined_submodule_versions` checks these out
 ONDEWO_T2S_API_GIT_BRANCH=tags/6.6.0
